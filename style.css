@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+body {
+    background-image: url(./img/img_1.jpg);
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+}
+
+h1 {
+    color: #96ff8c;
+    text-decoration: underline;
+}
+
+div {
+    height: 200px;
+}
+
+.button button {
+    padding: 15px;
+    margin: 20px;
+    font-size: 18px;
+    background-color: #68615c;
+    color: #96ff8c;
+    border-radius: 8px;
+    transition: all 0.5s ease;
+    outline: none;
+    border: none;
+}
+
+.button button:hover {
+    background-color: #3b3b3b;
+}
+
+.lvl {
+    padding: 20px;
+    font-size: 18px;
+    background-color: #68615c;
+    color: #96ff8c;
+    border-radius: 8px;
+}
+
+.easy {
+    background-color: #7c746f;
+}
+
+.middle {
+    background-color: #857874;
+}
+
+.stat {
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    margin: 20px;
+    background-color: #68615c;
+    color: #96ff8c;
+}
+
+.reset {
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #68615c;
+    color: #96ff8c;
+    
+}
+
